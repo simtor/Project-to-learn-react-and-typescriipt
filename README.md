@@ -1,1 +1,1 @@
-# Project-to-learn-react-and-typescriipt
+# Project-to-learn-react-and-typescript
